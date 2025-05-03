@@ -28,7 +28,7 @@ substitutions:
   _DATAFLOW_BASE_BUCKET: serverless_edem_fs_2025
   _DATAFLOW_JOB_NAME: edem-dataflow-flex-template
   _DATAFLOW_TEMPLATE_NAME: serverless-edem
-  _REGION_ID: europe-southwest1
+  _REGION_ID: europe-west1
   _ARTIFACT_REGISTRY_REPOSITORY: serverless-edem
   _ARTIFACT_REGISTRY_IMAGE_NAME: dataflow-flex-template
   _DATAFLOW_PYTHON_FILE_PATH: EDEM_Serverless_Dataflow_Solution.py
